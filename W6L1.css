@@ -1,0 +1,12 @@
+body {
+	background-color: gray;
+	font-family: Roboto;
+}
+.wrapper { /*De width en height klopt niet met de text, maar wel met de image in de opdracht nu.*/
+    width: 350px;
+    height: 150px;
+    padding: 40px; 
+    margin: 40px;
+    border: 20px dashed crimson;
+	background-color: lemonchiffon;
+}
